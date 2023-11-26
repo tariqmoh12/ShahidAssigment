@@ -7,7 +7,6 @@
 
 import Foundation
 class NetworkingManager {
-    
     static let shared = NetworkingManager()
     
     // MARK: To make sure that one instance will be created
